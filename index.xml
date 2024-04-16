@@ -21,17 +21,17 @@
 &lt;li&gt;&lt;a href=&quot;https://www.lesswrong.com/&quot; class=&quot;external&quot;&gt;LessWrong&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — is an online forum and community dedicated to improving human reasoning and decision-making. We seek to hold true beliefs and to be effective at accomplishing our goals. Each day, we aim to be less wrong about the world than the day before.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://obsidian.md/roadmap/&quot; class=&quot;external&quot;&gt;Obsidian Roadmap&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — list of future&lt;a href=&quot;./tags/Obsidian&quot; class=&quot;tag-link internal alias&quot; data-slug=&quot;tags/Obsidian&quot;&gt;Obsidian&lt;/a&gt; features.&lt;/li&gt;
 &lt;/ul&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 19:40:54 GMT</pubDate>
+    <pubDate>Tue, 16 Apr 2024 20:14:34 GMT</pubDate>
   </item><item>
     <title>🌴 Jungle</title>
     <link>https://jungle.madebyme.today/</link>
     <guid>https://jungle.madebyme.today/</guid>
     <description>&lt;p&gt;Welcome to the &lt;strong&gt;🌴 Jungle&lt;/strong&gt;!&lt;/p&gt;
 &lt;h2 id=&quot;what-is-this&quot;&gt;What is this?&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#what-is-this&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;I’ve been using &lt;a href=&quot;https://obsidian.md/&quot; class=&quot;external&quot;&gt;Obsidian&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; for some time already and I found it to be a great place for storing information in a loosely-manner, so it can be retrieved at a later time. I was thinking about publishing my notes for some time already, but I wanted to do so in a more controlled way.&lt;/p&gt;
+&lt;p&gt;I’ve been using &lt;a href=&quot;https://obsidian.md/&quot; class=&quot;external&quot;&gt;Obsidian&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; for some time already and I found it to be a great place for storing information in a loosely-manner, so it can be retrieved at a later time. I was thinking about publishing my notes for some time, but I wanted to do so in a more controlled way.&lt;/p&gt;
 &lt;p&gt;Also, I’ve been toying with an idea to add recipes and short notes sections to my &lt;a href=&quot;https://madebyme.today/&quot; class=&quot;external&quot;&gt;website&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;. Frankly, I lacked the motivation to create new subpage templates with the necessary functionality.&lt;/p&gt;
 &lt;p&gt;Meet &lt;strong&gt;🌴 Jungle&lt;/strong&gt;!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🌴 Jungle&lt;/strong&gt; is mostly an experiment; it’s a &lt;a href=&quot;https://jzhao.xyz/posts/networked-thought&quot; class=&quot;external&quot;&gt;digital garden&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; of sorts. I’m planning to publish some of my Obsidian notes here, so that they can be easily accessed by me, my friends, on any device.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🌴 Jungle&lt;/strong&gt; is mostly an experiment; it’s a &lt;a href=&quot;https://jzhao.xyz/posts/networked-thought&quot; class=&quot;external&quot;&gt;digital garden&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; of sorts. I’m planning to publish some of my Obsidian notes here, so that they can be easily accessed by me and my friends, on any device.&lt;/p&gt;
 &lt;h3 id=&quot;why-not-publish-on-madebymetoday&quot;&gt;Why not publish on &lt;a href=&quot;https://madebyme.today/&quot; class=&quot;external&quot;&gt;madebyme.today&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;?&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#why-not-publish-on-madebymetoday&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I’ve established an unwritten contact between me and my readers — &lt;a href=&quot;https://madebyme.today/&quot; class=&quot;external&quot;&gt;madebyme.today&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; is for tech-related articles. I feel like if I’d publish a TTRPG session log or a cinnamon roll recipe on my website, I’d break that contract.&lt;/p&gt;
 &lt;p&gt;Think of it like this:&lt;/p&gt;
@@ -45,15 +45,157 @@
 &lt;h2 id=&quot;is-it-published-with-obsidian-publish&quot;&gt;Is it published with Obsidian Publish?&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#is-it-published-with-obsidian-publish&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;No.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://obsidian.md/publish&quot; class=&quot;external&quot;&gt;Obsidian Publish&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; is a great tool, but it does not allow you to fully customise the static website it produces. For this project I’ve decided to go with &lt;a href=&quot;https://quartz.jzhao.xyz/&quot; class=&quot;external&quot;&gt;Quartz&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; by &lt;a href=&quot;https://jzhao.xyz/&quot; class=&quot;external&quot;&gt;Jacky&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;. Quartz is a static-site generator — like &lt;a href=&quot;https://gohugo.io/&quot; class=&quot;external&quot;&gt;Hugo&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — but it was built with Obsidian in mind; it handles &lt;a href=&quot;https://quartz.jzhao.xyz/features/wikilinks&quot; class=&quot;external&quot;&gt;Wikilinks&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, &lt;a href=&quot;https://quartz.jzhao.xyz/features/callouts&quot; class=&quot;external&quot;&gt;Callouts&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, and many other Obsidian features out-of-the-box.&lt;/p&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 19:40:54 GMT</pubDate>
+    <pubDate>Tue, 16 Apr 2024 20:14:34 GMT</pubDate>
   </item><item>
-    <title>Weekly</title>
+    <title>Callouts</title>
+    <link>https://jungle.madebyme.today/800---Obsidian-Reference/Callouts</link>
+    <guid>https://jungle.madebyme.today/800---Obsidian-Reference/Callouts</guid>
+    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!note]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout abstract&quot; data-callout=&quot;abstract&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Abstract&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!abstract]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aliases: &lt;code&gt;summary&lt;/code&gt;, &lt;code&gt;tldr&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout info&quot; data-callout=&quot;info&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Info&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!info]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout todo&quot; data-callout=&quot;todo&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Todo&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!todo]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout tip&quot; data-callout=&quot;tip&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Tip&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!tip]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aliases: &lt;code&gt;hint&lt;/code&gt;, &lt;code&gt;important&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout success&quot; data-callout=&quot;success&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Success&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!success]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aliases: &lt;code&gt;check&lt;/code&gt;, &lt;code&gt;done&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout question&quot; data-callout=&quot;question&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Question&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!question]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aliases: &lt;code&gt;help&lt;/code&gt;, &lt;code&gt;faq&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout warning&quot; data-callout=&quot;warning&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Warning&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!warning]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aliases: &lt;code&gt;caution&lt;/code&gt;, &lt;code&gt;attention&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout failure&quot; data-callout=&quot;failure&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Failure&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!failure]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aliases: &lt;code&gt;fail&lt;/code&gt;, &lt;code&gt;missing&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout danger&quot; data-callout=&quot;danger&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Danger&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!danger]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Alias: &lt;code&gt;error&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout bug&quot; data-callout=&quot;bug&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Bug&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!bug]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout example&quot; data-callout=&quot;example&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Example&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!example]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote class=&quot;callout quote&quot; data-callout=&quot;quote&quot;&gt;
+&lt;div class=&quot;callout-title&quot;&gt;
+                  &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
+                  &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Quote&lt;/p&gt;&lt;/div&gt;
+                  
+                &lt;/div&gt;
+&lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;text&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; [!quote]&lt;/span&gt;&lt;/span&gt;
+&lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Alias: &lt;code&gt;cite&lt;/code&gt;&lt;/p&gt;</description>
+    <pubDate>Tue, 16 Apr 2024 20:14:34 GMT</pubDate>
+  </item><item>
+    <title>index</title>
     <link>https://jungle.madebyme.today/051---Weekly/</link>
     <guid>https://jungle.madebyme.today/051---Weekly/</guid>
     <description>&lt;p&gt;If &lt;strong&gt;🌴 Jungle&lt;/strong&gt; is an experiment in itself, then &lt;a href=&quot;../051---Weekly/&quot; class=&quot;internal alias&quot; data-slug=&quot;051---Weekly/index&quot;&gt;Weekly&lt;/a&gt; is an experiment inside another experiment. An experiment inception!&lt;/p&gt;
 &lt;p&gt;I’m a big fan of the Obsidian’s &lt;a href=&quot;https://help.obsidian.md/Plugins/Daily+notes&quot; class=&quot;external&quot;&gt;Daily notes&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; plugin and the &lt;a href=&quot;https://github.com/liamcain/obsidian-periodic-notes&quot; class=&quot;external&quot;&gt;Periodic Notes&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; plugin, which is Daily notes on steroids. I’m using Dailies as a notepad for anything that might come during the day and to give it a &lt;em&gt;small&lt;/em&gt; hope of being reused some day in the future. Dailies are private and &lt;em&gt;very&lt;/em&gt; unstructured.&lt;/p&gt;
 &lt;p&gt;The plan for the Weekly notes is to make them like Dailies, but with more thought and &lt;a href=&quot;../175---LessWrong/Articles/004---Pain-is-not-the-unit-of-Effort&quot; class=&quot;internal alias&quot; data-slug=&quot;175---LessWrong/Articles/004---Pain-is-not-the-unit-of-Effort&quot;&gt;effort&lt;/a&gt;. Basically I curate everything that I collect in my Dailies and put &lt;em&gt;good enough&lt;/em&gt; stuff in the Weekly note. As such, I’m declaring Weekly notes worthy of being published.&lt;/p&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 19:40:54 GMT</pubDate>
+    <pubDate>Tue, 16 Apr 2024 20:14:34 GMT</pubDate>
   </item>
     </channel>
   </rss>
