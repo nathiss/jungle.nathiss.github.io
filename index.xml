@@ -21,7 +21,7 @@
 &lt;li&gt;&lt;a href=&quot;https://www.lesswrong.com/&quot; class=&quot;external&quot;&gt;LessWrong&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — is an online forum and community dedicated to improving human reasoning and decision-making. We seek to hold true beliefs and to be effective at accomplishing our goals. Each day, we aim to be less wrong about the world than the day before.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://obsidian.md/roadmap/&quot; class=&quot;external&quot;&gt;Obsidian Roadmap&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — list of future&lt;a href=&quot;./tags/Obsidian&quot; class=&quot;tag-link internal alias&quot; data-slug=&quot;tags/Obsidian&quot;&gt;Obsidian&lt;/a&gt; features.&lt;/li&gt;
 &lt;/ul&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 20:52:54 GMT</pubDate>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
   </item><item>
     <title>🌴 Jungle</title>
     <link>https://jungle.madebyme.today/</link>
@@ -45,7 +45,130 @@
 &lt;h2 id=&quot;is-it-published-with-obsidian-publish&quot;&gt;Is it published with Obsidian Publish?&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#is-it-published-with-obsidian-publish&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;No.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://obsidian.md/publish&quot; class=&quot;external&quot;&gt;Obsidian Publish&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; is a great tool, but it does not allow you to fully customise the static website it produces. For this project I’ve decided to go with &lt;a href=&quot;https://quartz.jzhao.xyz/&quot; class=&quot;external&quot;&gt;Quartz&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; by &lt;a href=&quot;https://jzhao.xyz/&quot; class=&quot;external&quot;&gt;Jacky&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;. Quartz is a static-site generator — like &lt;a href=&quot;https://gohugo.io/&quot; class=&quot;external&quot;&gt;Hugo&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — but it was built with Obsidian in mind; it handles &lt;a href=&quot;https://quartz.jzhao.xyz/features/wikilinks&quot; class=&quot;external&quot;&gt;Wikilinks&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, &lt;a href=&quot;https://quartz.jzhao.xyz/features/callouts&quot; class=&quot;external&quot;&gt;Callouts&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, and many other Obsidian features out-of-the-box.&lt;/p&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 20:52:54 GMT</pubDate>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
+  </item><item>
+    <title>001 - Yellow pea soup</title>
+    <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/001---Yellow-pea-soup</link>
+    <guid>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/001---Yellow-pea-soup</guid>
+    <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#ingredients&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 small onion&lt;/li&gt;
+&lt;li&gt;1 small carrot&lt;/li&gt;
+&lt;li&gt;1 clove of garlic&lt;/li&gt;
+&lt;li&gt;2 pcs of celery&lt;/li&gt;
+&lt;li&gt;4 cups vegetable broth&lt;/li&gt;
+&lt;li&gt;1 ¼ cup yellow peas&lt;/li&gt;
+&lt;li&gt;1 tsp dried oregano&lt;/li&gt;
+&lt;li&gt;½ tsp dried thyme&lt;/li&gt;
+&lt;li&gt;Salt and pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#preparation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finely chop the onion and celery, slice the garlic, and dice the carrots.&lt;/li&gt;
+&lt;li&gt;Put all ingredients into the rice cooker pot and mix thoroughly.&lt;/li&gt;
+&lt;li&gt;Close the lid, select the &lt;strong&gt;SOUP&lt;/strong&gt; program and cook for &lt;strong&gt;2 hours&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Add a tablespoon of cream to the soup and blend with a stick blender.&lt;/em&gt;&lt;/p&gt;</description>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
+  </item><item>
+    <title>002 - Vegetable Thai curry</title>
+    <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/002---Vegetable-Thai-curry</link>
+    <guid>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/002---Vegetable-Thai-curry</guid>
+    <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#ingredients&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 small onion&lt;/li&gt;
+&lt;li&gt;1 medium carrot&lt;/li&gt;
+&lt;li&gt;1 red pepper&lt;/li&gt;
+&lt;li&gt;230 g broccoli&lt;/li&gt;
+&lt;li&gt;130 g peas&lt;/li&gt;
+&lt;li&gt;3 tbsp Thai red or yellow curry paste&lt;/li&gt;
+&lt;li&gt;200 ml coconut milk&lt;/li&gt;
+&lt;li&gt;100 ml water&lt;/li&gt;
+&lt;li&gt;1 tbsp brown sugar&lt;/li&gt;
+&lt;li&gt;1 tbsp fish sauce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#preparation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finely chop the onion, peel and dice the carrots, cut the pepper into strips and place in the rice cooker pot along with the peas, curry paste, water and sugar.&lt;/li&gt;
+&lt;li&gt;Close the lid, select the &lt;strong&gt;SLOW COOK&lt;/strong&gt; program and cook for &lt;strong&gt;45 minutes&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 minutes&lt;/strong&gt; before the end of the cooking time, add the broccoli florets, coconut milk, and fish sauce to the pot. Close the lid again and let the program finish.&lt;/li&gt;
+&lt;li&gt;Stir thoroughly before serving.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;As a side, serve with sticky rice or white bread.&lt;/em&gt;&lt;/p&gt;</description>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
+  </item><item>
+    <title>003 - Spanish chicken with rice</title>
+    <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/003---Spanish-chicken-with-rice</link>
+    <guid>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/003---Spanish-chicken-with-rice</guid>
+    <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#ingredients&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;500 g chicken cutlets&lt;/li&gt;
+&lt;li&gt;1 onion&lt;/li&gt;
+&lt;li&gt;3 garlic clovers&lt;/li&gt;
+&lt;li&gt;1 ½ cups rice&lt;/li&gt;
+&lt;li&gt;2 cups chicken broth&lt;/li&gt;
+&lt;li&gt;400g chopped tomatoes (sterilised)&lt;/li&gt;
+&lt;li&gt;1 tbsp butter&lt;/li&gt;
+&lt;li&gt;1 tsp ground cumin&lt;/li&gt;
+&lt;li&gt;2 tbsp chopped parsley&lt;/li&gt;
+&lt;li&gt;Salt and pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#preparation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finely chop the onion, chop the garlic and put them in the rice cooker pot. Add the rinsed rice, broth, butter, cumin, salt and pepper, and stir thoroughly.&lt;/li&gt;
+&lt;li&gt;Pour in the tomatoes and add the chicken (cut into large strips) on top. Do not stir.&lt;/li&gt;
+&lt;li&gt;Close the lid, select the &lt;strong&gt;QUICK COOK&lt;/strong&gt; program and cook for &lt;strong&gt;35 minutes&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Stir again before serving.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Serve sprinkled with freshly chopped parsley.&lt;/em&gt;&lt;/p&gt;</description>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
+  </item><item>
+    <title>004 - Hong Kong clay pot rice</title>
+    <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/004---Hong-Kong-clay-pot-rice</link>
+    <guid>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/004---Hong-Kong-clay-pot-rice</guid>
+    <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#ingredients&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 ½ cups jasmine or basmati rice&lt;/li&gt;
+&lt;li&gt;Smoked pork belly (approx. 3 cm wide)&lt;/li&gt;
+&lt;li&gt;1-2 sausages (to taste)&lt;/li&gt;
+&lt;li&gt;2 ½ cups water&lt;/li&gt;
+&lt;li&gt;2 tbsp soy sauce&lt;/li&gt;
+&lt;li&gt;1 tbsp fish sauce&lt;/li&gt;
+&lt;li&gt;½ tsp sugar&lt;/li&gt;
+&lt;li&gt;½ tsp white pepper&lt;/li&gt;
+&lt;li&gt;5 sage leaves&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#preparation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Put the rinsed rice, the whole piece of pork belly, sausages, sage, and water in the rice cooker pot.&lt;/li&gt;
+&lt;li&gt;Close the lid, select the &lt;strong&gt;CLAYPOT RICE&lt;/strong&gt; program and start it.&lt;/li&gt;
+&lt;li&gt;When the rice is ready, (&lt;strong&gt;in about 30 minutes&lt;/strong&gt;) take out the pork and sausages, and cut them into slices.&lt;/li&gt;
+&lt;li&gt;Mix the soy sauce, fish sauce, and all other spices together. Add this to the pot along with the meat.&lt;/li&gt;
+&lt;li&gt;Close the lid and let the program finish.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Serve in bowls drizzled with soy sauce and add freshly chopped corriander.&lt;/em&gt;&lt;/p&gt;</description>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
+  </item><item>
+    <title>005 - Oatmeal porridge with apples and cinnamon</title>
+    <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/005---Oatmeal-porridge-with-apples-and-cinnamon</link>
+    <guid>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/005---Oatmeal-porridge-with-apples-and-cinnamon</guid>
+    <description>&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#ingredients&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 apple&lt;/li&gt;
+&lt;li&gt;1 cup oatmeal&lt;/li&gt;
+&lt;li&gt;½ inch cinnamon&lt;/li&gt;
+&lt;li&gt;1 tbsp brown sugar or honey&lt;/li&gt;
+&lt;li&gt;1 ¾ cups water&lt;/li&gt;
+&lt;li&gt;a pinch of salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#preparation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Place the diced apple, oats, super, cinnamon, ad pinch of salt, and water in the rice cooker pot.&lt;/li&gt;
+&lt;li&gt;Close the lid, select the &lt;strong&gt;PORRIDGE&lt;/strong&gt; program and cook until the desired consistency has been reached (approx. &lt;strong&gt;10-15 minutes&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;This program can also be stopped manually. It is not necessary to wait till the end of the set time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Serve with fresh raspberries or other delicious fruits.&lt;/em&gt;&lt;/p&gt;</description>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
   </item><item>
     <title>Callouts</title>
     <link>https://jungle.madebyme.today/800---Obsidian-Reference/Callouts</link>
@@ -187,7 +310,7 @@
 &lt;span data-line=&quot;&quot;&gt;&lt;span&gt;&gt; Lorem ipsum dolor sit amet&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Alias: &lt;code&gt;cite&lt;/code&gt;&lt;/p&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 20:52:54 GMT</pubDate>
+    <pubDate>Wed, 17 Apr 2024 11:18:16 GMT</pubDate>
   </item><item>
     <title>051 - Weekly</title>
     <link>https://jungle.madebyme.today/051---Weekly/</link>
@@ -195,7 +318,31 @@
     <description>&lt;p&gt;If &lt;strong&gt;🌴 Jungle&lt;/strong&gt; is an experiment in itself, then &lt;a href=&quot;../051---Weekly/&quot; class=&quot;internal alias&quot; data-slug=&quot;051---Weekly/index&quot;&gt;Weekly&lt;/a&gt; is an experiment inside another experiment. An experiment inception!&lt;/p&gt;
 &lt;p&gt;I’m a big fan of the Obsidian’s &lt;a href=&quot;https://help.obsidian.md/Plugins/Daily+notes&quot; class=&quot;external&quot;&gt;Daily notes&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; plugin and the &lt;a href=&quot;https://github.com/liamcain/obsidian-periodic-notes&quot; class=&quot;external&quot;&gt;Periodic Notes&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; plugin, which is Daily notes on steroids. I’m using Dailies as a notepad for anything that might come during the day and to give it a &lt;em&gt;small&lt;/em&gt; hope of being reused some day in the future. Dailies are private and &lt;em&gt;very&lt;/em&gt; unstructured.&lt;/p&gt;
 &lt;p&gt;The plan for the Weekly notes is to make them like Dailies, but with more thought and &lt;a href=&quot;../175---LessWrong/Articles/004---Pain-is-not-the-unit-of-Effort&quot; class=&quot;internal alias&quot; data-slug=&quot;175---LessWrong/Articles/004---Pain-is-not-the-unit-of-Effort&quot;&gt;effort&lt;/a&gt;. Basically I curate everything that I collect in my Dailies and put &lt;em&gt;good enough&lt;/em&gt; stuff in the Weekly note. As such, I’m declaring Weekly notes worthy of being published.&lt;/p&gt;</description>
-    <pubDate>Tue, 16 Apr 2024 20:52:54 GMT</pubDate>
+    <pubDate>Wed, 17 Apr 2024 11:18:15 GMT</pubDate>
+  </item><item>
+    <title>002 - Sushi rice</title>
+    <link>https://jungle.madebyme.today/700---Recipies/002---Sushi-rice</link>
+    <guid>https://jungle.madebyme.today/700---Recipies/002---Sushi-rice</guid>
+    <description>&lt;h2 id=&quot;meta&quot;&gt;Meta&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#meta&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[difficulty:: easy]&lt;/li&gt;
+&lt;li&gt;[time:: 15min + &lt;em&gt;time for rice cooker to finish cooking&lt;/em&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#ingredients&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sushi rice&lt;/li&gt;
+&lt;li&gt;Rice vinegar&lt;/li&gt;
+&lt;li&gt;Sugar&lt;/li&gt;
+&lt;li&gt;Salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#preparation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Wash the rise in a bowl of cold tap water multiple times, until the water no longer changes color. Allow it to dry for &lt;strong&gt;5 minutes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Put the rice in the rice cooker; add the same amount of water by volume. Turn on the cooking.&lt;/p&gt;
+&lt;p&gt;Pour 20% of dry rice volume of vinegar to a bowl. Add 10% of dry rice volume of sugar (or ½ of the vinegar volume) to the same bowl. Add 2.5% of dry rice volume of salt (or ¼ of the sugar volume) to the same bowl. Stir until fully dissolved.&lt;/p&gt;
+&lt;p&gt;When the rice is ready, transport it to a large bowl and add the vinegar mixture. Gently stir the rice, so that each grain gets covered in the vinegar mixture.&lt;/p&gt;
+&lt;p&gt;As the last step, gently spread the rice using a 45° cutting motion to break up any lumps and to separate the rice.&lt;/p&gt;
+&lt;p&gt;Sushi rice is ready to be used.&lt;/p&gt;</description>
+    <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
