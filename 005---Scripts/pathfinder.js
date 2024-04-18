@@ -193,7 +193,7 @@ class Pathfinder {
         });
 
         const stats = {
-            Health: overviewFields.AncestryHP + overviewFields.ClassHP + abilities.ConstitutionMod,
+            Health: level * overviewFields.AncestryHP + overviewFields.ClassHP + abilities.ConstitutionMod,
             ArmorClass: 10 + defenseFields.ItemBonus + proficiency + normalizedDexMod,
             Speed: overviewFields.Speed,
             Size: overviewFields.Size,
