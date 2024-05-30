@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"b123918e5a854f52","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/010 - Place to stay.md","x":20,"y":-340,"width":606,"height":456},
+		{"id":"b66f1fcc902c6c65","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Meeting with Filip.md","x":993,"y":-2040,"width":400,"height":400},
+		{"id":"fc537a1a7ae6f1e1","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/020 - Public Transport.md","x":323,"y":-830,"width":400,"height":243,"color":"2"},
+		{"id":"5fa3123f1cf359b0","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/030 - Food in Rome.md","x":-400,"y":-1200,"width":646,"height":432},
+		{"id":"03ce3505f92c3af4","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/002 - Taxi from CIA.md","x":123,"y":400,"width":400,"height":400},
+		{"id":"f27d47c649a8b7ee","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/011 - Pantheon.md","x":1510,"y":-2159,"width":640,"height":520,"color":"6"},
+		{"id":"3c70c438d0b9c82f","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/010 - Colosseum.md","x":1338,"y":-1506,"width":985,"height":597,"color":"6"},
+		{"id":"ac25d923a145a2c9","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/012 - Piazzi di Trevi Roma.md","x":2267,"y":-2000,"width":600,"height":321,"color":"4"},
+		{"id":"e9c50ef3eca2af75","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/013 - Villa Borghese.md","x":2323,"y":-2229,"width":480,"height":141,"color":"4"},
+		{"id":"de6e2a6a239b24de","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/030 - Tivoli.md","x":1089,"y":69,"width":609,"height":249},
+		{"id":"2780c6f42fda50bf","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/021 - Villa Doria Pamphili.md","x":2439,"y":-1568,"width":1069,"height":738,"color":"4"},
+		{"id":"fa1d23a17d72786c","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/Sightseeing/020 - Vatican City.md","x":1193,"y":-768,"width":1645,"height":738,"color":"6"},
+		{"id":"059c87f197e59f1b","type":"file","file":"020 - Archive/900 - Rome Trip/002 - Timetable.md","x":-800,"y":-693,"width":604,"height":353,"color":"1"},
+		{"id":"288640ff076c6a79","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/090 - Transport Rome-CIA.md","x":-848,"y":-55,"width":700,"height":343,"color":"2"},
+		{"id":"86a5f6e0d3def45f","type":"file","file":"020 - Archive/900 - Rome Trip/010 - Details/001 - Flight.md","x":-800,"y":600,"width":540,"height":560,"color":"2"}
+	],
+	"edges":[
+		{"id":"7108d92c26a3016f","fromNode":"86a5f6e0d3def45f","fromSide":"right","toNode":"03ce3505f92c3af4","toSide":"left","label":"2024-05-01"},
+		{"id":"f9d1a74614773978","fromNode":"b123918e5a854f52","fromSide":"right","toNode":"3c70c438d0b9c82f","toSide":"left","label":"2024-05-02"},
+		{"id":"cd2a4d5b4c122480","fromNode":"3c70c438d0b9c82f","fromSide":"top","toNode":"f27d47c649a8b7ee","toSide":"bottom"},
+		{"id":"bb8e458da5b9a703","fromNode":"f27d47c649a8b7ee","fromSide":"right","toNode":"ac25d923a145a2c9","toSide":"left"},
+		{"id":"50429a877d94904e","fromNode":"b123918e5a854f52","fromSide":"right","toNode":"fa1d23a17d72786c","toSide":"left","label":"2024-05-03"},
+		{"id":"ee2fc019253bf76b","fromNode":"fa1d23a17d72786c","fromSide":"right","toNode":"2780c6f42fda50bf","toSide":"bottom"},
+		{"id":"12f70f57ead130fb","fromNode":"b123918e5a854f52","fromSide":"right","toNode":"de6e2a6a239b24de","toSide":"left","label":"2024-05-04"},
+		{"id":"bb6924321848dccc","fromNode":"b123918e5a854f52","fromSide":"top","toNode":"fc537a1a7ae6f1e1","toSide":"bottom"},
+		{"id":"68cf751824506ed0","fromNode":"b123918e5a854f52","fromSide":"left","toNode":"288640ff076c6a79","toSide":"top","label":"2024-05-07"},
+		{"id":"7ae19df41656389b","fromNode":"288640ff076c6a79","fromSide":"bottom","toNode":"86a5f6e0d3def45f","toSide":"top","label":"Rome > CIA"},
+		{"id":"101fce3efb7e87e1","fromNode":"b123918e5a854f52","fromSide":"top","toNode":"5fa3123f1cf359b0","toSide":"bottom"},
+		{"id":"bf29a24aa3bf75ba","fromNode":"b123918e5a854f52","fromSide":"right","toNode":"b66f1fcc902c6c65","toSide":"left","label":"2024-05-01"},
+		{"id":"1f330b62feffbd29","fromNode":"03ce3505f92c3af4","fromSide":"top","toNode":"b123918e5a854f52","toSide":"bottom","label":"CIA > Rome"},
+		{"id":"5b9da3a7e8e7f6b5","fromNode":"ac25d923a145a2c9","fromSide":"top","toNode":"e9c50ef3eca2af75","toSide":"bottom"}
+	]
+}
