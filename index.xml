@@ -100,7 +100,7 @@
 &lt;h2 id=&quot;gear&quot;&gt;Gear&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#gear&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;weapons&quot;&gt;Weapons&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#weapons&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;notes&quot;&gt;Notes&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#notes&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:46 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:17:02 GMT</pubDate>
   </item><item>
     <title>🌴 Jungle</title>
     <link>https://jungle.madebyme.today/</link>
@@ -124,7 +124,7 @@
 &lt;h2 id=&quot;is-it-published-with-obsidian-publish&quot;&gt;Is it published with Obsidian Publish?&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#is-it-published-with-obsidian-publish&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;No.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://obsidian.md/publish&quot; class=&quot;external&quot;&gt;Obsidian Publish&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; is a great tool, but it does not allow you to fully customise the static website it produces. For this project I’ve decided to go with &lt;a href=&quot;https://quartz.jzhao.xyz/&quot; class=&quot;external&quot;&gt;Quartz&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; by &lt;a href=&quot;https://jzhao.xyz/&quot; class=&quot;external&quot;&gt;Jacky&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;. Quartz is a static-site generator — like &lt;a href=&quot;https://gohugo.io/&quot; class=&quot;external&quot;&gt;Hugo&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; — but it was built with Obsidian in mind; it handles &lt;a href=&quot;https://quartz.jzhao.xyz/features/wikilinks&quot; class=&quot;external&quot;&gt;Wikilinks&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, &lt;a href=&quot;https://quartz.jzhao.xyz/features/callouts&quot; class=&quot;external&quot;&gt;Callouts&lt;svg class=&quot;external-icon&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, and many other Obsidian features out-of-the-box.&lt;/p&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
     <title>001 - Yellow pea soup</title>
     <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/001---Yellow-pea-soup</link>
@@ -148,7 +148,7 @@
 &lt;li&gt;Close the lid, select the &lt;strong&gt;SOUP&lt;/strong&gt; program and cook for &lt;strong&gt;2 hours&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Add a tablespoon of cream to the soup and blend with a stick blender.&lt;/em&gt;&lt;/p&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
     <title>002 - Vegetable Thai curry</title>
     <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/002---Vegetable-Thai-curry</link>
@@ -174,7 +174,7 @@
 &lt;li&gt;Stir thoroughly before serving.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;As a side, serve with sticky rice or white bread.&lt;/em&gt;&lt;/p&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
     <title>003 - Spanish chicken with rice</title>
     <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/003---Spanish-chicken-with-rice</link>
@@ -200,7 +200,7 @@
 &lt;li&gt;Stir again before serving.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Serve sprinkled with freshly chopped parsley.&lt;/em&gt;&lt;/p&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
     <title>004 - Hong Kong clay pot rice</title>
     <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/004---Hong-Kong-clay-pot-rice</link>
@@ -226,7 +226,7 @@
 &lt;li&gt;Close the lid and let the program finish.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Serve in bowls drizzled with soy sauce and add freshly chopped corriander.&lt;/em&gt;&lt;/p&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
     <title>005 - Oatmeal porridge with apples and cinnamon</title>
     <link>https://jungle.madebyme.today/700---Recipies/001---Rice-cooker/005---Oatmeal-porridge-with-apples-and-cinnamon</link>
@@ -247,25 +247,68 @@
 &lt;li&gt;This program can also be stopped manually. It is not necessary to wait till the end of the set time.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;TIP&lt;/em&gt;&lt;/strong&gt;: &lt;em&gt;Serve with fresh raspberries or other delicious fruits.&lt;/em&gt;&lt;/p&gt;</description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
-    <title>031 - Iorvett</title>
-    <link>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/031---Iorvett</link>
-    <guid>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/031---Iorvett</guid>
-    <description></description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <title>012 - Nine alignments</title>
+    <link>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/500---Rules/012---Nine-alignments</link>
+    <guid>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/500---Rules/012---Nine-alignments</guid>
+    <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;&lt;strong&gt;Good&lt;/strong&gt;&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;&lt;strong&gt;Neutral&lt;/strong&gt;&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;&lt;strong&gt;Evil&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;Lawful&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Lawful Good&lt;br&gt;(LG)&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Lawful Neutral&lt;br&gt;(LN)&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Lawful Evil&lt;br&gt;(LE)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;Neutral&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Neutral Good&lt;br&gt;(NG)&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;True neutral&lt;br&gt;(N)&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Neutral Evil&lt;br&gt;(NE)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;Chaotic&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Chaotic Good&lt;br&gt;(CG)&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Chaotic Neutral&lt;br&gt;(CN)&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Chaotic Evil&lt;br&gt;(CE)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
-    <title>032 - Cora</title>
-    <link>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/032---Cora</link>
-    <guid>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/032---Cora</guid>
-    <description></description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <title>013 - Ability scores</title>
+    <link>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/500---Rules/013---Ability-scores</link>
+    <guid>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/500---Rules/013---Ability-scores</guid>
+    <description>&lt;p&gt;Characters are defined by &lt;em&gt;ability scores&lt;/em&gt;. There are six ability scores in the game:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strength&lt;/strong&gt; — represents a character’s physical might,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dexterity&lt;/strong&gt; — represents agility and the ability to avoid danger,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Constitution&lt;/strong&gt; — indicates a character’s overall health and well-being,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intelligence&lt;/strong&gt; — represents raw knowledge and problem-solving ability,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wisdom&lt;/strong&gt; — measures a character’s insight and the ability to evaluate a situation,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charisma&lt;/strong&gt; — indicates charm, persuasiveness, and the force of personality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go to &lt;a href=&quot;../../../185---TTRPG/050---Pathfinder/500---Rules/011---Ability-modifiers&quot; class=&quot;internal alias&quot; data-slug=&quot;185---TTRPG/050---Pathfinder/500---Rules/011---Ability-modifiers&quot;&gt;Table: Ability modifiers&lt;/a&gt; to see how to calculate modifiers out of scores.&lt;/p&gt;</description>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item><item>
-    <title>033 - Gondo</title>
-    <link>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/033---Gondo</link>
-    <guid>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/033---Gondo</guid>
-    <description></description>
-    <pubDate>Sun, 16 Mar 2025 20:40:17 GMT</pubDate>
+    <title>001 - Kaguchi</title>
+    <link>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/001---Kaguchi</link>
+    <guid>https://jungle.madebyme.today/185---TTRPG/050---Pathfinder/002---Other-Characters/001---Kaguchi</guid>
+    <description>&lt;h1 id=&quot;kaguchi&quot;&gt;Kaguchi&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#kaguchi&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;meta&quot;&gt;Meta&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#meta&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[Class:: Kineticist]&lt;/li&gt;
+&lt;li&gt;[Ancestry:: Human]&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <pubDate>Sat, 04 Jul 2026 13:16:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
